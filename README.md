@@ -64,3 +64,7 @@ Example:
 - File transfer resumes after interruption
 - File integrity verified using SHA-256
 
+## Team
+[Kshitij Shetty](https://github.com/KshitijShetty27),
+[Rushieswar Reddy](https://github.com/marreddyrushieswar-dotcom),
+[Nishanth](https://github.com/Nishanth-5555)
